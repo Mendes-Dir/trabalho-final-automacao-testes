@@ -1,0 +1,12 @@
+{
+  "name": "trabalho-final-automacao-testes",
+  "version": "1.0.0",
+  "description": "Projeto de testes E2E com Playwright para a disciplina de Programação para Automação de Testes",
+  "scripts": {
+    "test": "npx playwright test",
+    "e2e": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1"
+  }
+}
