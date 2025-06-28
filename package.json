@@ -7,6 +7,8 @@
     "e2e": "npx playwright test"
   },
   "devDependencies": {
-    "@playwright/test": "^1.44.1"
-  }
+  "@playwright/test": "^1.53.1",
+  "playwright": "^1.53.1"
+}
+
 }
